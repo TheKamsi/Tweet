@@ -15,6 +15,20 @@ The following **required** functionality is completed:
 - [x] User stays logged in across restarts. (1pt)
 - [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
 
+
+The following **required** functionality is completed:
+
+- [x ] User can compose a tweet. (4pts)
+- [x] User can favorite a tweet. (4pts)
+- [ ] User can retweet a tweet. (2pts)
+
+The following **bonus** features are implemented:
+
+- [x] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280) (2pts)
+- [x] User can view their profile in a profile tab. (3pts)
+- [x] User sees embedded images in tweet if available. (3pts)
+
+
 The following **bonus** features are implemented:
 
 - [x] User can pull to refresh. (1pt)
@@ -24,4 +38,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/MX7cp18fav.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/wSIq0Kzsli.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
